@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> About Khaled Ananzeh</title>
+	</head>
+	
+	<body>
+		<h1>Khaled Ananzeh</h1>
+		
+		<h2>My hobbies</h2>
+		<p>I enjoy fishing, camping and playing video games.</p>
+	
+		<h2>My pet</h2>
+		<p>I have a cat named Nakita, she is very spoiled..</p>
+		
+		<h2>Website I use alot</h2>
+		<a href="https://www.mtech.edu/"target="_blank">Montana Tech website </a>
+		<br>
+		
+		<img src="Kiki-Photo.jpg" alt="My cat Nakita" width="300">
+		
+	</body>	
+	
+	
+</html>	
